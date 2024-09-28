@@ -1,0 +1,11 @@
+[package]
+authors = ["iimuz <iz.primary.story+github@gmail.com>"]
+edition = "2021"
+name = "front-matter-changer"
+version = "0.1.0"
+
+[[bin]]
+name = "fmc"
+path = "./src/main.rs"
+
+[dependencies]
